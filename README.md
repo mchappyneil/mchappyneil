@@ -14,11 +14,11 @@ More recently, I've been expanding my knowledge base and trying to learn a few m
 I love playing both board and video games. I recently built [my very first desktop computer](https://ca.pcpartpicker.com/b/zcJbt6), and I enjoyed every second of it - sometimes I think about dismantling it all just to build it again. I love to read, watch football (soccer), and, of course, code!
 
 Here's a list of my top 5 favourite (video) games of all time, ranked in no particular order:
-- [Minecraft](https://www.minecraft.net/en-us/about-minecraft)
-- [Marvel's Spiderman (PS4)](https://www.playstation.com/en-ca/games/marvels-spider-man/)
-- [The Uncharted Series](https://www.playstation.com/en-ca/uncharted/)
-- [Sekiro: Shadows Die Twice](https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/)
-- [Mario Kart Wii](https://www.mariowiki.com/Mario_Kart_Wii)
+- [Minecraft](https://www.minecraft.net/en-us/about-minecraft) 🟫
+- [Marvel's Spiderman (PS4)](https://www.playstation.com/en-ca/games/marvels-spider-man/) 🕸️
+- [The Uncharted Series](https://www.playstation.com/en-ca/uncharted/) 🤵
+- [Sekiro: Shadows Die Twice](https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/) 🐺
+- [Mario Kart (Wii)](https://www.mariowiki.com/Mario_Kart_Wii) 🍄
 
 ## Contact Me
 If you'd like to get in contact with me, you can reach me via my email, neil.mehta0201@gmail.com.
