@@ -1,6 +1,6 @@
 # Hi, My name is Neil! 
 
-## I'm currently a 20 year old student at the University of Toronto, completing my third year of a double major in Mathematical Sciences and Computer Science.
+## I'm currently a 20 year old student at the University of Toronto, completing my third year of a double major in Computer Science and Mathematics.
 #### I'm proficient in Python, with 5 years of experience, and have intermediate knowledge in Java and Javascript. At the moment, I am learning C and the ISA RISC-V (both in and out of school).
 
 Currently, I work part-time as a Coding Instructor for the company [Code Ninjas in Brampton, ON](https://www.codeninjas.com/brampton-south-west-on-ca).
