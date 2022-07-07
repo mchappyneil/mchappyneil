@@ -1,9 +1,11 @@
 # Hi, My name is Neil! 
 
-## I'm currently a 20 year old student at the University of Toronto, completing my third year of a double major in Computer Science and Mathematics.
+## I'm currently a 21 year old student at the University of Toronto, completing my third year of a double major in Computer Science and Mathematics.
 #### I'm proficient in Python, with 5 years of experience, and have intermediate knowledge in Java and Javascript. At the moment, I am learning C and the ISA RISC-V (both in and out of school).
 
-Currently, I work part-time as a Coding Instructor for the company [Code Ninjas in Brampton, ON](https://www.codeninjas.com/brampton-south-west-on-ca).
+## Experience
+Currently, I am on my Co-Op term and work full-time as a Backend Software Developer for [KOHO Financial](https://www.koho.ca).
+Previously, I have worked part-time as a Coding Instructor for the company [Code Ninjas in Brampton, ON](https://www.codeninjas.com/brampton-south-west-on-ca).
 
 ## Past Projects
 In previous years, I've made a demo for a "Social Media Website" I call [```LinkUp```](https://github.com/neil-mehta-code/LinkUp_Social_Media_Website.git). I created this project back in my senior year of High School as my final project for my Computer Science class, and then spent a while updating it as I went because it was something I was really proud of. But with how far I've come now, I look back at the project and see several things I could have done better from the start. It now mostly acts as a memento for myself, to remind me of where and how I started, and how far I've come - both as a developer and as a person.
