@@ -1,7 +1,7 @@
 # Hi, My name is Neil! 
 
 ## I'm currently a 21 year old student at the University of Toronto, completing my third year of a double major in Computer Science and Mathematics.
-#### I'm proficient in Python, with 5 years of experience, and have intermediate knowledge in Java and Javascript. At the moment, I am learning C and the ISA RISC-V (both in and out of school).
+#### I'm proficient in Python, with 5 years of experience, and have intermediate knowledge in Java and Javascript. At the moment, I am using (and learning) Golang, Docker, AWS, and SQL 
 
 ## Experience
 Currently, I am on my Co-Op term and work full-time as a Backend Software Developer for [KOHO Financial](https://www.koho.ca).
@@ -32,6 +32,11 @@ Here's a list of my top 5 favourite (video) games of all time, ranked in no part
 If you'd like to get in contact with me, you can reach me via my email, neil.mehta0201@gmail.com.
 
 Thanks for stopping by!
+<br />
+<br />
+
+> ### _Learn continually - there is always "one more thing" to learn_
+> _-Steve Jobs_
 
 <!---
 neil-mehta-code/neil-mehta-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
