@@ -4,8 +4,9 @@
 #### I'm proficient in Python, with 5 years of experience, and have intermediate knowledge in Java and Javascript. At the moment, I am using (and learning) Golang, Docker, AWS, and SQL 
 
 ## Experience
-Currently, I am on my Co-Op term and work full-time as a Backend Software Developer for [KOHO Financial](https://www.koho.ca).
-Previously, I have worked part-time as a Coding Instructor for the company [Code Ninjas in Brampton, ON](https://www.codeninjas.com/brampton-south-west-on-ca).
+Currently, I am on my Co-Op term and work full-time as a Backend Software Developer for [KOHO Financial](https://www.koho.ca). I write most of my code in Go, and have completed various tickets around different areas such as queuing, test automation, AWS lambdas, etc.
+
+Previously, I have worked part-time as a Coding Instructor for the company [Code Ninjas in Brampton, ON](https://www.codeninjas.com/brampton-south-west-on-ca) where I would guide young children through a program on learning to code mainly in JavaScript and a little Python.
 
 ## Past Projects
 In previous years, I've made a demo for a "Social Media Website" I call [```LinkUp```](https://github.com/neil-mehta-code/LinkUp_Social_Media_Website.git). I created this project back in my senior year of High School as my final project for my Computer Science class, and then spent a while updating it as I went because it was something I was really proud of. But with how far I've come now, I look back at the project and see several things I could have done better from the start. It now mostly acts as a memento for myself, to remind me of where and how I started, and how far I've come - both as a developer and as a person.
@@ -14,10 +15,17 @@ More recently, I've been expanding my knowledge base and trying to learn a few m
 
 There are more projects I have completed, mainly for school, however due to potential Academic Offences (i.e., plagiarism) and Copyright Infringement, I have chosen to not display them on GitHub.
 
+<br/>
+<br/>
+
+> ## _Learn continually - there is always "one more thing" to learn_
+> _- Steve Jobs_
+
+<br/>
+
 ## More About Me
 
 As I continue to grow and advance in my career, I am hoping to be able to work in biotechnology, developing AI or ML programs and/or platforms to provide us with deeper understanding into genetic and other types of illnesses and diseases.
-
 
 I love playing both board and video games. I recently built [my very first desktop computer](https://ca.pcpartpicker.com/b/zcJbt6), and I enjoyed every second of it - sometimes I think about dismantling it all just to build it again. I love to read, watch football (soccer), and code!
 
@@ -29,14 +37,12 @@ Here's a list of my top 5 favourite (video) games of all time, ranked in no part
 - [Mario Kart (Wii)](https://www.mariowiki.com/Mario_Kart_Wii) 🍄
 
 ## Contact Me
-If you'd like to get in contact with me, you can reach me via my email, neil.mehta0201@gmail.com.
+You can reach out to me on:
+- [LinkedIn](https://www.linkedin.com/in/neil-mehta-529944244/)
+- [Instagram](https://www.instagram.com/mchappyneil/)
+- My email: neil.mehta0201@gmail.com.
 
 Thanks for stopping by!
-<br />
-<br />
-
-> ### _Learn continually - there is always "one more thing" to learn_
-> _-Steve Jobs_
 
 <!---
 neil-mehta-code/neil-mehta-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
