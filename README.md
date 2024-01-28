@@ -1,6 +1,6 @@
 # Hi, My name is Neil! 
 
-## I'm currently a 22 year old student at the University of Toronto, completing my third year of a double major in Computer Science and Mathematics.
+## I'm currently a 22 year old student at the University of Toronto, completing my final year of a double major in Computer Science and Mathematics.
 #### I'm proficient in Python, with 5 years of experience, and have intermediate knowledge in Golang, Java, and JavaScript with a year of experience in each.
 
 ## Experience
@@ -33,9 +33,9 @@ I love playing both board and video games. I recently built [my very first deskt
 
 Here's a list of my top 5 favourite (video) games of all time, ranked in no particular order:
 - [Minecraft](https://www.minecraft.net/en-us/about-minecraft) 🟫
-- [Marvel's Spiderman (PS4)](https://www.playstation.com/en-ca/games/marvels-spider-man/) 🕸️
-- [The Uncharted Series](https://www.playstation.com/en-ca/uncharted/) 🤵
-- [Sekiro: Shadows Die Twice](https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/) 🐺
+- [Baldur's Gate 3](https://baldursgate3.game/) 🐲
+- [Sanabi](https://store.steampowered.com/app/1562700/SANABI/) 🌆
+- [Lethal Company](https://store.steampowered.com/app/1966720/Lethal_Company/) 💰 
 - [Mario Kart (Wii)](https://www.mariowiki.com/Mario_Kart_Wii) 🍄
 
 ## Contact Me
