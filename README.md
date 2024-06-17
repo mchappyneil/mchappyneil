@@ -4,16 +4,23 @@
 #### I'm proficient in Python, with 5 years of experience, and have intermediate knowledge in Golang, Java, and JavaScript with a year of experience in each.
 
 ## Experience
-I completed a year-long co-op working as a Backend Software Developer for [KOHO Financial](https://www.koho.ca/), as a part of the team responsible for creating the different subscription tiers offered by the company. I was mainly responsible for building tools and writing scripts to assist in backfilling user data to the new or revamped tiers created by the team. I also gained experience in bugfixing and writing robust unit and integration tests, as well as best practices for writing clear and effective documentation. I thoroughly enjoyed my time working at KOHO and built long-lasting relations with so many new people I otherwise never would have gotten to meet!
+I completed a year-long co-op working as a Backend Software Developer for [KOHO Financial](https://www.koho.ca/), as a part of the team responsible for creating the different subscription tiers offered by the company. I was mainly responsible for building internal tools, such as a script which assisted in backfilling user data to the new and/or revamped subscription tiers created by the team. I also gained experience in bugfixing and writing robust unit and integration tests, as well as best practices for writing clear and effective documentation. I thoroughly enjoyed my time working at KOHO and built long-lasting relations with so many new people I otherwise never would have gotten to meet!
 
 Previously, I have also worked part-time as a Coding Instructor for the company [Code Ninjas in Brampton, ON](https://www.codeninjas.com/brampton-south-west-on-ca) where I would guide young children through a program on learning to code mainly in JavaScript and a little bit of Python.
 
-I have knowledge of Docker, AWS, PostgreSQL, Jenkins, RabbitMQ, DataDog, Postman as well as many other applications and libraries in my toolkit.
+I have knowledge of Docker, AWS, PostgreSQL, Jenkins, RabbitMQ, DataDog, Postman as well as many other applications and libraries.
 
 ## Past Projects
+
+My most recent project (and the one I update most consistently) is my [personal website/portfolio](https://neil-mehta.com). I built it from the ground up using ReactJS as a framework and styling it using SCSS. This website is the best way to gain an understanding of my skills, since I often update it with whatever new skills I learn. It's also all of my passions gathered into one place!
+
+During my co-op experience, I developed my knowledge of RESTful APIs and web development by creating my own "people-service" in Golang: a small API using basic HTML methods to communicate with a server that hosted "people".
+
 In previous years, I've made a demo for a "Social Media Website" I call [```LinkUp```](https://github.com/neil-mehta-code/LinkUp_Social_Media_Website.git). I created this project back in my senior year of High School as my final project for my Computer Science class, and then spent a while updating it as I went because it was something I was really proud of. But with how far I've come now, I look back at the project and see several things I could have done better from the start. It now mostly acts as a memento for myself, to remind me of where and how I started, and how far I've come - both as a developer and as a person.
 
-More recently, I've been expanding my knowledge base and trying to learn a few more programming languages, primarily Java and JavaScript. I built a [weather forecaster](https://github.com/neil-mehta-code/weather_forecaster_final) using React and wrapping around the [OpenWeatherMap Weather API](https://openweathermap.org/api). It's a very small, very simple project that I made just to get familiar with the major aspects of web development.
+When I was first learning how to use ReactJS, I built a [weather forecaster](https://github.com/neil-mehta-code/weather_forecaster_final) that wrapped around the [OpenWeatherMap Weather API](https://openweathermap.org/api). It's a very small, very simple project that I made just to get familiar with the major aspects of web development.
+
+In my forays into Machine Learning, I've built a simple image segmenter using the k-Nearest Neighbours model and a Multi-Layer Perceptron capable of predicting the city being spoken about by a person.
 
 There are more projects I have completed, mainly for school, however due to potential Academic Offences (i.e., plagiarism) and Copyright Infringement, I have chosen to not display them on GitHub.
 
