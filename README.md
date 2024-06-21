@@ -8,7 +8,7 @@ I completed a year-long co-op working as a Backend Software Developer for [KOHO 
 
 Previously, I have also worked part-time as a Coding Instructor for the company [Code Ninjas in Brampton, ON](https://www.codeninjas.com/brampton-south-west-on-ca) where I would guide young children through a program on learning to code mainly in JavaScript and a little bit of Python.
 
-I have knowledge of Docker, AWS, PostgreSQL, Jenkins, RabbitMQ, DataDog, Postman as well as many other applications and libraries.
+I have knowledge of Docker, AWS, PostgreSQL, Jenkins, RabbitMQ, DataDog, Postman as well as many other applications and services.
 
 ## Past Projects
 
