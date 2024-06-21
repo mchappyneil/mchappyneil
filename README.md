@@ -36,7 +36,7 @@ There are more projects I have completed, mainly for school, however due to pote
 
 As I continue to grow and advance in my career, I am hoping to be able to work in biotechnology, developing AI or ML programs and/or platforms to provide us with deeper understanding into genetic and other types of illnesses and diseases.
 
-I love playing both board and video games. I recently built [my very first desktop computer](https://ca.pcpartpicker.com/b/zcJbt6), and I enjoyed every second of it - sometimes I think about dismantling it all just to build it again. I love to read, watch football (soccer), and code!
+I love playing both board and video games. A few years ago, I built [my very first desktop computer](https://ca.pcpartpicker.com/b/zcJbt6), and I enjoyed every second of it - sometimes I think about dismantling it all just to build it again. I love to read, watch football (soccer), Formula One, and code!
 
 Here's a list of my top 5 favourite (video) games of all time, ranked in no particular order:
 - [Minecraft](https://www.minecraft.net/en-us/about-minecraft) 🟫
