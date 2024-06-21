@@ -12,7 +12,7 @@ I have knowledge of Docker, AWS, PostgreSQL, Jenkins, RabbitMQ, DataDog, Postman
 
 ## Past Projects
 
-My most recent project (and the one I update most consistently) is my [personal website/portfolio](https://neil-mehta.com). I built it from the ground up using ReactJS as a framework and styling it using SCSS. This website is the best way to gain an understanding of my skills, since I often update it with whatever new skills I learn. It's also all of my passions gathered into one place!
+My most recent project (and the one I update most consistently) is my [personal website/portfolio](https://neil-mehta.com). I built it from the ground up using ReactJS as a framework and styling it using SCSS. This website is the best way to gain an understanding of my abilities, since I often update it with whatever new skills I learn. It's also all of my passions gathered into one place!
 
 During my co-op experience, I developed my knowledge of RESTful APIs and web development by creating my own "people-service" in Golang: a small API using basic HTML methods to communicate with a server that hosted "people".
 
