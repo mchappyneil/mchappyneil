@@ -1,7 +1,7 @@
 # Hi, My name is Neil! 
 
 ## I'm currently a 23 year old student at the University of Toronto, completing my final semester of a double major in Computer Science and Mathematics.
-#### I'm proficient in Python, with 5 years of experience, and have intermediate knowledge in Golang, Java, and JavaScript with a year of experience in each.
+#### I'm proficient in Python, with 5 years of experience, and have intermediate knowledge in Golang, Java, and JavaScript with 2 years of experience in each.
 
 ## Experience
 I completed a year-long co-op working as a Backend Software Developer for [KOHO Financial](https://www.koho.ca/), as a part of the team responsible for creating the different subscription tiers offered by the company. I was mainly responsible for building internal tools, such as a script which assisted in backfilling user data to the new and/or revamped subscription tiers created by the team. I also gained experience in bugfixing and writing robust unit and integration tests, as well as best practices for writing clear and effective documentation. I thoroughly enjoyed my time working at KOHO and built long-lasting relations with so many new people I otherwise never would have gotten to meet!
@@ -12,7 +12,9 @@ I have knowledge of Docker, AWS, PostgreSQL, Jenkins, RabbitMQ, DataDog, Postman
 
 ## Past Projects
 
-My most recent project (and the one I update most consistently) is my [personal website/portfolio](https://neil-mehta.com). I built it from the ground up using ReactJS as a framework and styling it using SCSS. This website is the best way to gain an understanding of my abilities, since I often update it with whatever new skills I learn. It's also all of my passions gathered into one place!
+My most updated project is my [personal website/portfolio](https://neil-mehta.com). I built it from the ground up using ReactJS as a framework and styling it using SCSS. This website is the best way to gain an understanding of my abilities, since I often update it with whatever new skills I learn. It's also all of my passions gathered into one place!
+
+I'm in the process of creating a new UI for Spotify that I call Melodia, its a React App that utilizes Axios HTTP client to access Spotify API and play (snippets of) music. 
 
 During my co-op experience, I developed my knowledge of RESTful APIs and web development by creating my own "people-service" in Golang: a small API using basic HTML methods to communicate with a server that hosted "people".
 
