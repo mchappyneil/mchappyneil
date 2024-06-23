@@ -1,6 +1,6 @@
 # Hi, My name is Neil! 
 
-## I'm currently a 23 year old student at the University of Toronto, completing my final year of a double major in Computer Science and Mathematics.
+## I'm currently a 23 year old student at the University of Toronto, completing my final semester of a double major in Computer Science and Mathematics.
 #### I'm proficient in Python, with 5 years of experience, and have intermediate knowledge in Golang, Java, and JavaScript with a year of experience in each.
 
 ## Experience
