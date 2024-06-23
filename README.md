@@ -27,8 +27,8 @@ There are more projects I have completed, mainly for school, however due to pote
 <br/>
 <br/>
 
-> ## _Learn continually - there is always "one more thing" to learn_
-> _- Steve Jobs_
+> ## _"And we came forth to contemplate the stars"_
+> _- Dante Alighieri_
 
 <br/>
 
