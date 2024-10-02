@@ -14,7 +14,7 @@ I have knowledge of Docker, AWS, PostgreSQL, Jenkins, RabbitMQ, DataDog, Postman
 
 My most updated project is my [personal website/portfolio](https://neil-mehta.com). I built it using ReactJS and styled it using SCSS. This website is the best way to gain an understanding of my abilities, since I often update it with whatever new skills I learn. It's also all of my passions gathered into one place!
 
-In order to expand on my full-stack skills, I have also recently built a (Proof of Concept) music streaming service I call [Melodia](https://melodia-streamer.netlify.app), its a React App that utilizes Axios HTTP client to access Spotify API and play (snippets of) music from playlists belonging to the Spotify user. 
+In order to expand on my full-stack skills, I have also recently built a (Proof of Concept) music streaming service I call Melodia, its a React App that utilizes Axios HTTP client to access Spotify API and play (snippets of) music from playlists belonging to the Spotify user. Unfortunately the project is still in development mode on SpotifyAPI, so its access is limited to test accounts only.
 
 In my forays into Machine Learning, I've built a simple image segmenter using the k-Nearest Neighbours model to help me improve my artistic skills. Continuing my experience in ML, I've contributed to building a Multi-Layer Perceptron capable of predicting the city being spoken about by a person (a school project - the writeup for the project can be found [here](https://github.com/mchappyneil/csc311-final-project-report/blob/main/csc311challenge.pdf)).
 
