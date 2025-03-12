@@ -26,19 +26,11 @@ When I was first learning how to use ReactJS, I built a [weather forecaster](htt
 
 There are more projects I have completed, mainly for school, however due to potential Academic Offences (i.e., plagiarism) and Copyright Infringement, I have chosen to not display them publically on GitHub.
 
-<br/>
-<br/>
-
-> ## _"And we came forth to contemplate the stars"_
-> _- Dante Alighieri_
-
-<br/>
-
 ## More About Me
 
-As I continue to grow and advance in my career, I am hoping to be able to work in biotechnology, developing AI or ML programs and/or platforms to provide us with deeper understanding into genetic and other types of illnesses and diseases.
+As I continue to grow and advance in my career, I am hoping to be able to work in healthcare technology, developing AI or ML programs and/or platforms to provide us with newfound and improved treatments and solutions for a variety of disabilities, illnesses, and diseases.
 
-I love playing both board and video games. A few years ago, I built [my very first desktop computer](https://ca.pcpartpicker.com/b/zcJbt6), and I enjoyed every second of it - sometimes I think about dismantling it all just to build it again. I love to read, watch football (soccer), Formula One, and code!
+I love playing both board and video games. I'm a PC enthusiast, I love to read, watch sports like soccer and Formula One, and code! I also enjoy snowboarding, pursuing photography, and learning new things.
 
 Here's a list of my top 5 favourite (video) games of all time, ranked in no particular order:
 - [Minecraft](https://www.minecraft.net/en-us/about-minecraft) 🟫
