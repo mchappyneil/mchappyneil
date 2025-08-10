@@ -1,6 +1,6 @@
 # Hi, My name is Neil! 
 
-## I'm a 23 year old engineer, graduated from the University of Toronto with a Bachelor of Science double majoring in Computer Science and Mathematics.
+## I'm a 24 year old engineer, graduated from the University of Toronto with a Bachelor of Science double majoring in Computer Science and Mathematics.
 #### I'm proficient in Python, Golang, Java, JavaScript, and other languages.
 
 ## Experience
