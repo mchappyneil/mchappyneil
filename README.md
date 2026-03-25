@@ -7,3 +7,18 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9D79D6&center=true&vCenter=true&width=435&lines=Level+24+Software+Engineer;Dual-class%3A+CS+%26+Mathematics;Currently+questing+at+KOHO" alt="Typing SVG" /></a>
 
 </div>
+
+---
+
+<h2 align="center">Quest Log</h2>
+
+<div align="center">
+
+| Status | Quest | Guild |
+|:------:|-------|-------|
+| :crossed_swords: | **Software Engineer** | KOHO Financial |
+| :white_check_mark: | **Data Scientist** | RBC |
+| :white_check_mark: | **Mathematics TA** | University of Toronto |
+| :white_check_mark: | **Backend Engineer (Co-op)** | KOHO Financial |
+
+</div>
