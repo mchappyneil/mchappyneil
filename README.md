@@ -60,7 +60,7 @@
 
 <div align="center">
 
-:racing_car: Following F1 2026 &nbsp;&nbsp; :books: Currently reading: [book title] &nbsp;&nbsp; :camera_flash: Pursuing photography
+:racing_car: Following F1 2026 &nbsp;&nbsp; :books: Currently reading: Red Rising &nbsp;&nbsp; :camera_flash: Pursuing photography
 
 </div>
 
