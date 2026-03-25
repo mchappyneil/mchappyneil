@@ -22,3 +22,22 @@
 | :white_check_mark: | **Backend Engineer (Co-op)** | KOHO Financial |
 
 </div>
+
+---
+
+<h2 align="center">Ability Scores</h2>
+
+<div align="center">
+  <a href="https://github.com/mchappyneil">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mchappyneil&show_icons=true&theme=tokyonight&bg_color=1a1b27&title_color=f7df1e&icon_color=9d79d6&text_color=c9d1d9&border_color=9d79d6&hide_border=false" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mchappyneil&layout=compact&theme=tokyonight&bg_color=1a1b27&title_color=f7df1e&text_color=c9d1d9&border_color=9d79d6&hide_border=false" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/mchappyneil">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=mchappyneil&theme=tokyonight&background=1a1b27&ring=9d79d6&fire=f7df1e&currStreakLabel=f7df1e&sideLabels=c9d1d9&border=9d79d6" />
+  </a>
+</div>
