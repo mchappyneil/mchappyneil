@@ -8,23 +8,20 @@
 
 </div>
 
----
-
-<h2 align="center">Quest Log</h2>
-
 <div align="center">
-
-| Status | Quest | Guild |
-|:------:|-------|-------|
-| :crossed_swords: | **Software Engineer** | KOHO Financial |
-| :white_check_mark: | **Data Scientist** | RBC |
-| :white_check_mark: | **Mathematics TA** | University of Toronto |
-| :white_check_mark: | **Backend Engineer (Co-op)** | KOHO Financial |
-
+  <img src="assets/divider.svg" width="100%" />
 </div>
 
----
+<!-- Quest Log -->
+<div align="center">
+  <img src="assets/quest-log.svg" alt="Quest Log" />
+</div>
 
+<div align="center">
+  <img src="assets/divider.svg" width="100%" />
+</div>
+
+<!-- Ability Scores -->
 <h2 align="center">Ability Scores</h2>
 
 <div align="center">
@@ -34,16 +31,11 @@
   </a>
 </div>
 
-<br/>
-
 <div align="center">
-  <a href="https://github.com/mchappyneil">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=mchappyneil&theme=tokyonight&background=1a1b27&ring=9d79d6&fire=f7df1e&currStreakLabel=f7df1e&sideLabels=c9d1d9&border=9d79d6" />
-  </a>
+  <img src="assets/divider.svg" width="100%" />
 </div>
 
----
-
+<!-- The Dungeon Crawl -->
 <h2 align="center">The Dungeon Crawl</h2>
 
 <div align="center">
@@ -54,19 +46,23 @@
   </picture>
 </div>
 
----
-
-<h2 align="center">Side Quests</h2>
-
 <div align="center">
-
-:racing_car: Following F1 2026 &nbsp;&nbsp; :books: Currently reading: Red Rising &nbsp;&nbsp; :camera_flash: Pursuing photography
-
+  <img src="assets/divider.svg" width="100%" />
 </div>
 
----
+<!-- Side Quests -->
+<div align="center">
+  <img src="assets/side-quests.svg" alt="Side Quests" />
+</div>
 
-<h2 align="center">Send a Raven</h2>
+<div align="center">
+  <img src="assets/divider.svg" width="100%" />
+</div>
+
+<!-- Send a Raven -->
+<div align="center">
+  <img src="assets/send-a-raven.svg" alt="Send a Raven" />
+</div>
 
 <div align="center">
 
