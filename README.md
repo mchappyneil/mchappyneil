@@ -41,3 +41,15 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=mchappyneil&theme=tokyonight&background=1a1b27&ring=9d79d6&fire=f7df1e&currStreakLabel=f7df1e&sideLabels=c9d1d9&border=9d79d6" />
   </a>
 </div>
+
+---
+
+<h2 align="center">The Dungeon Crawl</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+    <img alt="Snake animation" src="dist/github-snake.svg" />
+  </picture>
+</div>
