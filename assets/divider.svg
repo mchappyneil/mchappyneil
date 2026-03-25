@@ -2,12 +2,12 @@
   <line x1="100" y1="15" x2="270" y2="15" stroke="#9d79d6" stroke-width="0.5" opacity="0.3" />
   <line x1="330" y1="15" x2="500" y2="15" stroke="#9d79d6" stroke-width="0.5" opacity="0.3" />
   <text x="300" y="20" text-anchor="middle" font-size="14" fill="#9d79d6" opacity="0.5">&#9830;
-    <animate attributeName="opacity" values="0.3;0.7;0.3" dur="3s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.2;0.8;0.2" dur="2s" repeatCount="indefinite" />
   </text>
   <circle cx="270" cy="15" r="1.5" fill="#9d79d6" opacity="0.25">
-    <animate attributeName="opacity" values="0.15;0.35;0.15" dur="4s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.1;0.5;0.1" dur="2.5s" repeatCount="indefinite" />
   </circle>
   <circle cx="330" cy="15" r="1.5" fill="#9d79d6" opacity="0.25">
-    <animate attributeName="opacity" values="0.15;0.35;0.15" dur="4s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.1;0.5;0.1" dur="2.5s" repeatCount="indefinite" />
   </circle>
 </svg>

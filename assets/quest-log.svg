@@ -21,29 +21,29 @@
   <rect x="8" y="8" width="584" height="364" rx="8" fill="none" stroke="#9d79d6" stroke-width="1" opacity="0.4" />
   <rect x="14" y="14" width="572" height="352" rx="6" fill="none" stroke="#9d79d6" stroke-width="0.5" opacity="0.2" />
   <text x="20" y="30" font-size="18" fill="#9d79d6" opacity="0.6">&#9830;
-    <animate attributeName="opacity" values="0.3;0.7;0.3" dur="4s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.15;0.85;0.15" dur="2.5s" repeatCount="indefinite" />
   </text>
   <text x="572" y="30" font-size="18" fill="#9d79d6" opacity="0.6" text-anchor="end">&#9830;
-    <animate attributeName="opacity" values="0.4;0.8;0.4" dur="5s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.2;0.9;0.2" dur="3s" repeatCount="indefinite" />
   </text>
   <text x="20" y="360" font-size="18" fill="#9d79d6" opacity="0.6">&#9830;
-    <animate attributeName="opacity" values="0.5;0.7;0.5" dur="6s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.2;0.8;0.2" dur="3.5s" repeatCount="indefinite" />
   </text>
   <text x="572" y="360" font-size="18" fill="#9d79d6" opacity="0.6" text-anchor="end">&#9830;
-    <animate attributeName="opacity" values="0.3;0.6;0.3" dur="4.5s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.15;0.75;0.15" dur="2.8s" repeatCount="indefinite" />
   </text>
   <text x="300" y="52" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="url(#goldShine)" filter="url(#glow)" letter-spacing="6">&#9876; QUEST LOG &#9876;
-    <animate attributeName="opacity" values="0.85;1;0.85" dur="4s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="2.5s" repeatCount="indefinite" />
   </text>
   <line x1="100" y1="68" x2="500" y2="68" stroke="#9d79d6" stroke-width="0.5" opacity="0.4" />
   <circle cx="300" cy="68" r="2" fill="#f7df1e" opacity="0.6" />
   <circle cx="200" cy="68" r="1.5" fill="#9d79d6" opacity="0.3" />
   <circle cx="400" cy="68" r="1.5" fill="#9d79d6" opacity="0.3" />
   <rect x="30" y="84" width="540" height="58" rx="4" fill="#1e1730" stroke="#f7df1e" stroke-width="1" opacity="0.9">
-    <animate attributeName="stroke-opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite" />
+    <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite" />
   </rect>
   <rect x="30" y="84" width="4" height="58" rx="2" fill="#f7df1e">
-    <animate attributeName="opacity" values="0.7;1;0.7" dur="3s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite" />
   </rect>
   <text x="50" y="106" font-family="Georgia, serif" font-size="11" fill="#f7df1e" letter-spacing="2" font-weight="bold">ACTIVE QUEST</text>
   <text x="50" y="128" font-family="Georgia, serif" font-size="16" fill="#c9d1d9">

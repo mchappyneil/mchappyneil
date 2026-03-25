@@ -21,19 +21,19 @@
   <rect x="8" y="8" width="584" height="144" rx="8" fill="none" stroke="#9d79d6" stroke-width="1" opacity="0.4" />
   <rect x="14" y="14" width="572" height="132" rx="6" fill="none" stroke="#9d79d6" stroke-width="0.5" opacity="0.2" />
   <text x="20" y="30" font-size="18" fill="#9d79d6" opacity="0.6">&#9830;
-    <animate attributeName="opacity" values="0.3;0.7;0.3" dur="4s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.15;0.85;0.15" dur="2.5s" repeatCount="indefinite" />
   </text>
   <text x="572" y="30" font-size="18" fill="#9d79d6" opacity="0.6" text-anchor="end">&#9830;
-    <animate attributeName="opacity" values="0.4;0.8;0.4" dur="5s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.2;0.9;0.2" dur="3s" repeatCount="indefinite" />
   </text>
   <text x="20" y="140" font-size="18" fill="#9d79d6" opacity="0.6">&#9830;
-    <animate attributeName="opacity" values="0.5;0.7;0.5" dur="6s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.2;0.8;0.2" dur="3.5s" repeatCount="indefinite" />
   </text>
   <text x="572" y="140" font-size="18" fill="#9d79d6" opacity="0.6" text-anchor="end">&#9830;
-    <animate attributeName="opacity" values="0.3;0.6;0.3" dur="4.5s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.15;0.75;0.15" dur="2.8s" repeatCount="indefinite" />
   </text>
   <text x="300" y="52" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="url(#goldShine)" filter="url(#glow)" letter-spacing="6">SEND A RAVEN
-    <animate attributeName="opacity" values="0.85;1;0.85" dur="4s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="2.5s" repeatCount="indefinite" />
   </text>
   <line x1="100" y1="68" x2="500" y2="68" stroke="#9d79d6" stroke-width="0.5" opacity="0.4" />
   <circle cx="300" cy="68" r="2" fill="#f7df1e" opacity="0.6" />
