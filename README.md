@@ -53,3 +53,26 @@
     <img alt="Snake animation" src="dist/github-snake.svg" />
   </picture>
 </div>
+
+---
+
+<h2 align="center">Side Quests</h2>
+
+<div align="center">
+
+:racing_car: Following F1 2026 &nbsp;&nbsp; :books: Currently reading: [book title] &nbsp;&nbsp; :camera_flash: Pursuing photography
+
+</div>
+
+---
+
+<h2 align="center">Send a Raven</h2>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=1a1b27&labelColor=9d79d6)](https://www.linkedin.com/in/neil-mehta-529944244/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-neil--mehta.com-f7df1e?style=for-the-badge&logo=googlechrome&logoColor=white&color=1a1b27&labelColor=9d79d6)](https://neil-mehta.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:9d79d6&height=120&section=footer" width="100%" />
